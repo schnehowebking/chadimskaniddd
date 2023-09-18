@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.bg-ionos {
+    background: linear-gradient(to right bottom,#001b41 0,#003d8f);
+}
